@@ -4,8 +4,8 @@
 
 **Український переклад меню, HUD, налаштувань і гоночної термінології**
 
-[![Installer](https://img.shields.io/badge/інсталятор-0.2.16-ff174f?style=for-the-badge)](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-latest.exe)
-![Game](https://img.shields.io/badge/цільова_версія_LMU-1.4200-168fff?style=for-the-badge)
+[![Installer](https://img.shields.io/badge/інсталятор-0.2.17-ff174f?style=for-the-badge)](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-latest.exe)
+![Game](https://img.shields.io/badge/цільова_версія_LMU-1.4.2.3-168fff?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 [![Last update](https://img.shields.io/github/last-commit/Evgeniy955/Games-translate/main?path=LMU&style=for-the-badge&label=оновлено)](https://github.com/Evgeniy955/Games-translate/commits/main/LMU)
 
@@ -29,8 +29,8 @@
 
 | Компонент | Версія |
 |---|---:|
-| Le Mans Ultimate | `1.4200` |
-| Інсталятор локалізації | `0.2.16` |
+| Le Mans Ultimate | `1.4.2.3` |
+| Інсталятор локалізації | `0.2.17` |
 | Операційна система | Windows |
 | Мовний слот у Steam | Polish |
 
@@ -38,7 +38,7 @@
 
 ## Встановлення
 
-1. Завантажте [`LMU-UA-Launcher-0.2.16.exe`](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-latest.exe).
+1. Завантажте [`LMU-UA-Launcher-0.2.17.exe`](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-latest.exe).
 2. Закрийте **Le Mans Ultimate**.
 3. Запустіть інсталятор і перевірте шлях до папки гри.
 4. Натисніть **«Встановити переклад»**.
