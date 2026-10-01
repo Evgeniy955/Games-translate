@@ -4,13 +4,13 @@
 
 **Український переклад меню, HUD, налаштувань і ралійної термінології**
 
-[![Installer](https://img.shields.io/badge/інсталятор-0.6.1-e3191f?style=for-the-badge)](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.1/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe)
+[![Installer](https://img.shields.io/badge/інсталятор-0.6.2-e3191f?style=for-the-badge)](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.2/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.2.exe)
 ![Game](https://img.shields.io/badge/цільова_версія_гри-0.6-168fff?style=for-the-badge)
 ![Steam build](https://img.shields.io/badge/Steam_build-25170642-1b9a59?style=for-the-badge&logo=steam)
 ![Platform](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 [![Last update](https://img.shields.io/github/last-commit/Evgeniy955/Games-translate/main?path=AssettoCorsaRally&style=for-the-badge&label=оновлено)](https://github.com/Evgeniy955/Games-translate/commits/main/AssettoCorsaRally)
 
-### [⬇️ Завантажити актуальний інсталятор](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.1/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe)
+### [⬇️ Завантажити актуальний інсталятор](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.2/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.2.exe)
 
 </div>
 
@@ -33,7 +33,7 @@
 | Assetto Corsa Rally | `0.6` |
 | Steam build | `25170642` |
 | Український переклад | `0.6-UA-r1` |
-| Інсталятор | `0.6.1` |
+| Інсталятор | `0.6.2` |
 | Операційна система | Windows |
 | Мовний слот гри | Simplified Chinese (`zh-Hans`) |
 
@@ -41,7 +41,7 @@
 
 ## Встановлення
 
-1. Завантажте [`AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe`](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.1/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe).
+1. Завантажте [`AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.2.exe`](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.2/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.2.exe).
 2. Повністю закрийте **Assetto Corsa Rally**.
 3. Запустіть інсталятор.
 4. Перевірте автоматично знайдений шлях до папки гри або виберіть її вручну.
@@ -49,6 +49,8 @@
 6. Після завершення запускайте гру звичайним способом через Steam.
 
 Інсталятор сам знаходить бібліотеки Steam на доступних дисках, перевіряє сумісність гри, створює резервну копію оригінального PAK і вмикає український мовний слот.
+
+Під час запуску він також перевіряє встановлений переклад. Якщо перекладу немає, доступна кнопка **«ВСТАНОВИТИ ПЕРЕКЛАД»**; якщо знайдено іншу версію — **«ОНОВИТИ ПЕРЕКЛАД»**. Кнопка відновлення активується лише тоді, коли українська локалізація справді встановлена та є резервна копія.
 
 ## Оновлення локалізації
 
@@ -75,10 +77,10 @@
 
 ## Контрольна сума
 
-`AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe`
+`AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.2.exe`
 
 ```text
-SHA-256: 256D8F3DCA2228F6368DF7A37F123872FC62C762BDE6D00A7ADAC9B80C98836D
+SHA-256: AAC7CC688D118BAE8E3083CD789AAC86B065E3FC80F60A649A20622EDBCE17F2
 ```
 
 ---
