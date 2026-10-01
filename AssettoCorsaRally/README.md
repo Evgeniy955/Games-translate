@@ -4,13 +4,13 @@
 
 **Український переклад меню, HUD, налаштувань і ралійної термінології**
 
-[![Installer](https://img.shields.io/badge/інсталятор-0.6.1-e3191f?style=for-the-badge)](https://raw.githubusercontent.com/Evgeniy955/Games-translate/refs/heads/main/AssettoCorsaRally/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe)
+[![Installer](https://img.shields.io/badge/інсталятор-0.6.1-e3191f?style=for-the-badge)](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.1/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe)
 ![Game](https://img.shields.io/badge/цільова_версія_гри-0.6-168fff?style=for-the-badge)
 ![Steam build](https://img.shields.io/badge/Steam_build-25170642-1b9a59?style=for-the-badge&logo=steam)
 ![Platform](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 [![Last update](https://img.shields.io/github/last-commit/Evgeniy955/Games-translate/main?path=AssettoCorsaRally&style=for-the-badge&label=оновлено)](https://github.com/Evgeniy955/Games-translate/commits/main/AssettoCorsaRally)
 
-### [⬇️ Завантажити актуальний інсталятор](https://raw.githubusercontent.com/Evgeniy955/Games-translate/refs/heads/main/AssettoCorsaRally/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe)
+### [⬇️ Завантажити актуальний інсталятор](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.1/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ## Встановлення
 
-1. Завантажте [`AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe`](https://raw.githubusercontent.com/Evgeniy955/Games-translate/refs/heads/main/AssettoCorsaRally/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe).
+1. Завантажте [`AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe`](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.1/AssettoCorsaRally_0.6-UA-r1_Installer_v0.6.1.exe).
 2. Повністю закрийте **Assetto Corsa Rally**.
 3. Запустіть інсталятор.
 4. Перевірте автоматично знайдений шлях до папки гри або виберіть її вручну.
