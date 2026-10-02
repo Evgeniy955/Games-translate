@@ -4,13 +4,13 @@
 
 **Український переклад меню, HUD, налаштувань і ралійної термінології**
 
-[![Installer](https://img.shields.io/badge/інсталятор-0.6.5-e3191f?style=for-the-badge)](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.5/AC-Rally-UA-Installer-0.6.5.exe)
+[![Installer](https://img.shields.io/badge/інсталятор-0.6.6-e3191f?style=for-the-badge)](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.6/AC-Rally-UA-Installer-0.6.6.exe)
 ![Game](https://img.shields.io/badge/цільова_версія_гри-0.6-168fff?style=for-the-badge)
 ![Steam build](https://img.shields.io/badge/Steam_build-25170642-1b9a59?style=for-the-badge&logo=steam)
 ![Platform](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 [![Last update](https://img.shields.io/github/last-commit/Evgeniy955/Games-translate/main?path=AssettoCorsaRally&style=for-the-badge&label=оновлено)](https://github.com/Evgeniy955/Games-translate/commits/main/AssettoCorsaRally)
 
-### [⬇️ Завантажити актуальний інсталятор](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.5/AC-Rally-UA-Installer-0.6.5.exe)
+### [⬇️ Завантажити актуальний інсталятор](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.6/AC-Rally-UA-Installer-0.6.6.exe)
 
 </div>
 
@@ -47,7 +47,7 @@
 | Assetto Corsa Rally | `0.6` |
 | Steam build | `25170642` |
 | Український переклад | `0.6-UA-r2` |
-| Інсталятор | `0.6.5` |
+| Інсталятор | `0.6.6` |
 | Операційна система | Windows |
 | Мовний слот гри | Simplified Chinese (`zh-Hans`) |
 
@@ -55,7 +55,7 @@
 
 ## Встановлення
 
-1. Завантажте [`AC-Rally-UA-Installer-0.6.5.exe`](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.5/AC-Rally-UA-Installer-0.6.5.exe).
+1. Завантажте [`AC-Rally-UA-Installer-0.6.6.exe`](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.6/AC-Rally-UA-Installer-0.6.6.exe).
 2. Повністю закрийте **Assetto Corsa Rally**.
 3. Запустіть інсталятор.
 4. Перевірте автоматично знайдений шлях до папки гри або виберіть її вручну.
@@ -87,15 +87,16 @@
 - Це неофіційна локалізація для української спільноти Assetto Corsa Rally.
 - Для українського перекладу використовується слот **Simplified Chinese (`zh-Hans`)**.
 - Версія `0.6.5` змінює тільки мову тексту й не перемикає озвучення штурмана. Якщо старий інсталятор помилково вибрав китайське озвучення, воно безпечно повертається до попереднього значення з резервної копії.
+- У версії `0.6.6` додано окрему сторінку добровільної підтримки через monobank. Усі функції локалізації залишаються безкоштовними.
 - Інсталятор не містить повний ігровий PAK: він безпечно перескладається локально з установленої копії гри.
 - Попередні інсталятори залишаються в каталозі для історії версій; використовуйте файл із актуальною семантичною версією.
 
 ## Контрольна сума
 
-`AC-Rally-UA-Installer-0.6.5.exe`
+`AC-Rally-UA-Installer-0.6.6.exe`
 
 ```text
-SHA-256: C323412EEE83E5DA0F521A74BF264734869F0AEE7C28BE1FB6B0C2A7127E5126
+SHA-256: A67F6C0764A68BEE6259A5758CA7FB125DED92E85738222A3210E317BAFA24EE
 ```
 
 ---
