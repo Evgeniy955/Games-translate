@@ -4,13 +4,13 @@
 
 **Український переклад інтерфейсу, підказок, налаштувань і характеристик автомобілів**
 
-[![Installer](https://img.shields.io/badge/інсталятор-v0.3.2-ff174f?style=for-the-badge)](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/AssettoCorsaEVO/AssettoCorsaEVO_UA_Installer_v0.3.2.exe)
+[![Installer](https://img.shields.io/badge/інсталятор-v0.4.9-ff174f?style=for-the-badge)](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/AssettoCorsaEVO/AssettoCorsaEVO_UA_Installer_v0.4.9.exe)
 ![Game](https://img.shields.io/badge/Assetto_Corsa_EVO-v0.9.1-168fff?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Steam_build-25170311-168fff?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 [![Last update](https://img.shields.io/github/last-commit/Evgeniy955/Games-translate/main?path=AssettoCorsaEVO&style=for-the-badge&label=оновлено)](https://github.com/Evgeniy955/Games-translate/commits/main/AssettoCorsaEVO)
 
-### [⬇️ Завантажити актуальний інсталятор](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/AssettoCorsaEVO/AssettoCorsaEVO_UA_Installer_v0.3.2.exe)
+### [⬇️ Завантажити актуальний інсталятор](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/AssettoCorsaEVO/AssettoCorsaEVO_UA_Installer_v0.4.9.exe)
 
 </div>
 
@@ -45,7 +45,7 @@
 |---|---:|
 | Assetto Corsa EVO | `0.9.1` |
 | Steam build | `25170311` |
-| Інсталятор локалізації | `0.3.2` |
+| Інсталятор локалізації | `0.4.9` |
 | Операційна система | Windows |
 | Мовний слот гри | `uk` — Українська |
 
@@ -53,7 +53,7 @@
 
 ## Встановлення
 
-1. Завантажте [актуальний інсталятор](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/AssettoCorsaEVO/AssettoCorsaEVO_UA_Installer_v0.3.2.exe).
+1. Завантажте [актуальний інсталятор](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/AssettoCorsaEVO/AssettoCorsaEVO_UA_Installer_v0.4.9.exe).
 2. Закрийте **Assetto Corsa EVO**.
 3. Запустіть інсталятор. Він шукає гру в бібліотеках Steam на всіх доступних дисках; за потреби можна вибрати папку вручну.
 4. Натисніть **«ВСТАНОВИТИ / ОНОВИТИ»**.
@@ -71,10 +71,10 @@
 
 ## Контрольна сума інсталятора
 
-SHA-256 для `AssettoCorsaEVO_UA_Installer_v0.3.2.exe`:
+SHA-256 для `AssettoCorsaEVO_UA_Installer_v0.4.9.exe`:
 
 ```text
-A160B78B756DF64D2DDCF5BEF42CD4EA833177327AB00DD0FA4501FA29ACB3C4
+166DA4DB2005143C8D55E42233D3879D26C86C83AAF1F2ACF4379EC3304C835F
 ```
 
 ## Важливо
