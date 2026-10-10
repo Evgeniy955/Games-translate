@@ -1,49 +1,35 @@
 <div align="center">
 
-
 # Le Mans Ultimate — українська локалізація
-
 
 **Український переклад меню, HUD, налаштувань і гоночної термінології**
 
-
-[![Installer](https://img.shields.io/badge/інсталятор-0.3.7-ff174f?style=for-the-badge)](https://github.com/Evgeniy955/Games-translate/releases/download/lmu-v0.3.7/LMU-UA-Launcher-0.3.7.exe)
+[![Installer](https://img.shields.io/badge/інсталятор-0.3.7-ff174f?style=for-the-badge)](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-0.3.7.exe)
 ![Game](https://img.shields.io/badge/цільова_версія_LMU-1.4.3-168fff?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 [![Last update](https://img.shields.io/github/last-commit/Evgeniy955/Games-translate/main?path=LMU&style=for-the-badge&label=оновлено)](https://github.com/Evgeniy955/Games-translate/commits/main/LMU)
 
-
-### [⬇️ Завантажити актуальний інсталятор](https://github.com/Evgeniy955/Games-translate/releases/download/lmu-v0.3.7/LMU-UA-Launcher-0.3.7.exe)
-
+### [⬇️ Завантажити актуальний інсталятор](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-0.3.7.exe)
 
 </div>
 
-
 ---
-
 
 ## Підтримати українські локалізації
 
-
 Усі локалізації залишаються безкоштовними для всіх. Якщо вам подобається моя робота, можете підтримати мене донатом. Це допоможе приділяти більше часу перекладу, тестуванню та оновленню локалізацій.
-
 
 <p align="center">
   <a href="https://send.monobank.ua/jar/AXikLhaYGp"><img src="../support-monobank.png" alt="QR-код для підтримки українських локалізацій через monobank" width="280"></a>
 </p>
 
-
 <p align="center"><strong><a href="https://send.monobank.ua/jar/AXikLhaYGp">💙 Підтримати проєкт через monobank</a></strong></p>
-
 
 *Донат є добровільною подякою та не надає платного доступу чи додаткових переваг.*
 
-
 ---
 
-
 ## Що перекладено
-
 
 - головне меню та налаштування;
 - HUD і гоночні підказки;
@@ -51,12 +37,9 @@
 - тексти і зображення інформаційних карток;
 - гоночна термінологія українською мовою.
 
-
 Офіційні назви трас, серій і пакетів збережені без змін, зокрема `Michelin Raceway Road Atlanta`, `Daytona`, `Laguna Seca`, `ELMS`, `LMGT3` та `USA Track Pack`.
 
-
 ## Сумісність
-
 
 | Компонент | Версія |
 |---|---:|
@@ -65,37 +48,27 @@
 | Операційна система | Windows |
 | Мовний слот у Steam | Polish |
 
-
 > Після оновлення гри переклад може тимчасово не відповідати новим файлам LMU. Скористайтеся вбудованою перевіркою оновлень або відновіть оригінальні файли.
-
 
 ## Встановлення
 
-
-1. Завантажте [`LMU-UA-Launcher-0.3.7.exe`](https://github.com/Evgeniy955/Games-translate/releases/download/lmu-v0.3.7/LMU-UA-Launcher-0.3.7.exe).
+1. Завантажте [`LMU-UA-Launcher-0.3.7.exe`](https://raw.githubusercontent.com/Evgeniy955/Games-translate/main/LMU/LMU-UA-Launcher-0.3.7.exe).
 2. Закрийте **Le Mans Ultimate**.
 3. Запустіть інсталятор і перевірте шлях до папки гри.
 4. Натисніть **«Встановити переклад»**.
 5. У властивостях гри в Steam виберіть мову **Polish**.
 6. Запустіть гру через інсталятор або Steam.
 
-
 Інсталятор автоматично перевіряє файли гри та створює резервну копію оригіналів перед внесенням змін.
-
 
 ## Оновлення локалізації
 
-
 Відкрийте в інсталяторі розділ **«Перевірка оновлень»**. Лаунчер порівняє поточну версію з доступними файлами в цьому каталозі та запропонує завантаження, якщо опубліковано новішу версію.
-
 
 ## Відновлення оригінальних файлів
 
-
 Спочатку натисніть **«Відновити оригінал»** в інсталяторі та перемкніть мову гри в Steam на **English**.
 
-
 Якщо гра не запускається або Steam оновив її файли:
-
 
 **Steam → Налаштування → Властивості (Свойства) → Встановлені файли → Перевірити цілісність файлів гри**
